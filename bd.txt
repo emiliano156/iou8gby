@@ -1,0 +1,12 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyA_fjuWLOX8zxfAB_hAyBpmXyAYAmitlW4",
+  authDomain: "emiliano-car.firebaseapp.com",
+  databaseURL: "https://emiliano-car-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "emiliano-car",
+  storageBucket: "emiliano-car.appspot.com",
+  messagingSenderId: "432674455360",
+  appId: "1:432674455360:web:02adad98b39b6107e4c4a5"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
